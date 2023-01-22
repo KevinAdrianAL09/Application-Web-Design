@@ -1,4 +1,4 @@
-#Bienvenidos
+# Bienvenidos
 
 
 ### Datos del estudiante
@@ -8,7 +8,7 @@
 - Ingenieria en desarrollo de software
 - 6° Semestre
 
-###Materia 
+### Materia 
 -Diseño de aplicaciones web
 -Erik Ezequiel Carrillo Moo
 
