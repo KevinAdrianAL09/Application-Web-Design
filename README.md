@@ -8,9 +8,12 @@
 - Ingenieria en desarrollo de software
 - 6° Semestre
 
-### Materia 
--Diseño de aplicaciones web
--Erik Ezequiel Carrillo Moo
+### Materia
+
+- Diseño de aplicaciones web
+- Erik Ezequiel Carrillo Moo
+
+ 
 
 
 
