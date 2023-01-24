@@ -33,7 +33,7 @@
 
 ### Agregue otra sección donde enumerará los comandos utilizados en git para hacer lo siguiente:
 
-- PASOS SEGÚN LO PEDIDO CON COMANDOS 
+- PASOS SEGÚN LO PEDIDO CON COMANDOS  
 1.	Comprobar el estado de un repositorio local: git status
 2.	Agregar archivos individuales: git add <nombre del archivo>
 3.	Agregar archivos globalmente: git add .
